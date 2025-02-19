@@ -1,0 +1,6 @@
+.nav{
+  display: flex;
+  position: relative;
+  background-color: aqua;
+  padding-inline-start: 10px;
+}
